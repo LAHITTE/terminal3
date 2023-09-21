@@ -1,0 +1,25 @@
+  358  ls
+  359  rm php_frtls 
+  360  rm php_france_2019.csv 
+  361  grep "France_2019_PHP
+  362  ls
+  363  grep "France,2019,PHP" < wilders.csv | wc -l > php_france_2019.csv
+  364  cat php_france_2019.csv 
+  365  grep "France,2019,PHP" < wilders.csv | wc -l 
+  366  grep "France,2019,PHP" < wilders.csv 
+  367  grep JavaScript wilders.csv > java.csv
+  368  cat java.csv
+  369  grep Biarritz < java.csv > javascript_biarritz_toulouse.csv0
+  370* 
+  371  grep Biarritz < java.csv > javascript_biarritz_toulouse.csv
+  372  rm Biarritz < java.csv > javascript_biarritz_toulouse.csv0
+  373  rm javascript_biarritz_toulouse.csv0
+  374  ls
+  375  grep < java.csv >> javascript_biarritz_toulouse.cvs
+  376  grep Toulouse < java.csv >> javascript_biarritz_toulouse.cvs
+  377  rm javascript_biarritz_toulouse.cvs
+  378  grep Toulouse < java.csv >> 
+  379  grep Toulouse < java.csv >> javascript_biarritz_toulouse.csv
+  380  grep history | tail -n 50 > history.txt
+  381  history | tail -n 50 > history.txt
+  382  history | tail -n 25 > history.txt
